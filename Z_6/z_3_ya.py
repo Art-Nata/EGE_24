@@ -32,5 +32,5 @@ for x in range(-20, 20):
         t.dot(3)
 
 done()
-print(32 + 26)
+print(30 + 26)
 
