@@ -5,6 +5,9 @@
 
 x = 187
 y = 240
+print( x & y)
+print(f'{x:b}')
+print(f'{y:b}')
 z = ''
 while x != 0 or y != 0:
     z = str(x % 2 * y % 2) + z
